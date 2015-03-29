@@ -7,9 +7,13 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "Photo.h"
+#import "PhotoCollectionViewCell.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UICollectionViewController<UICollectionViewDataSource, UICollectionViewDelegate>
 
+@property (nonatomic, strong) Photo *photo;
+@property (nonatomic, strong) UICollectionView *collectionView;
 
 @end
 
