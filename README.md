@@ -1,4 +1,4 @@
 # InstaKilo
-A simple presentation of content in the style of OS X coverflow using collection views in iOS 8.
+A simple presentation of content using collection views in iOS 8 with a built-in sort function written in Objective C.
 
-![Alt text](https://www.dropbox.com/s/lbhaj8quukpzsvc/Swiftris.gif?raw=1 "Insta.Kilo")
+![Alt text](https://www.dropbox.com/s/juxsyofz8ed4kda/InstaKilo.gif?raw=1 "Insta.Kilo")
